@@ -12,7 +12,7 @@ AESD_ASSIGNMENTS_VERSION = '92cf3a9c449161e4e09d096ffa800a8a9187c252'
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
 # AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-sana-all.git
-AESD_ASSIGNMENTS_SITE = https://github.com/cu-ecen-aeld/assignments-3-and-later-sana-all.git
+AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-sana-all.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
