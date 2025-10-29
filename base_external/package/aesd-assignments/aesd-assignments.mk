@@ -9,12 +9,12 @@
 # AESD_ASSIGNMENTS_VERSION = '1cc47bfa4eb94f71ca9a15ca06ec1b9fedc4cca4'
 # AESD_ASSIGNMENTS_VERSION = '92cf3a9c449161e4e09d096ffa800a8a9187c252'
 # AESD_ASSIGNMENTS_VERSION = '4d2aeacd68afa8a2d09b3bdc1e918ed666fa2a2a'
-AESD_ASSIGNMENTS_VERSION = '4598a75c864ce6908b260d68d1d1f3b555c8035e'
+AESD_ASSIGNMENTS_VERSION = '915f6c2e77d119e7422407feb7fe0f1e148710da'
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
-# AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-sana-all.git
-AESD_ASSIGNMENTS_SITE = https://github.com/cu-ecen-aeld/assignments-3-and-later-sana-all
+AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-sana-all.git
+# AESD_ASSIGNMENTS_SITE = https://github.com/cu-ecen-aeld/assignments-3-and-later-sana-all
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
